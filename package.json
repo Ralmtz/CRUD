@@ -1,0 +1,19 @@
+{
+  "name": "CRUDsequelize",
+  "version": "1.0.0",
+  "description": "nodejs-express-sequelizejs-mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs-Express-SequelizeJs-MySQL"
+  ],
+  "author": "ORMC",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^1.6.5",
+    "nodemon": "^1.19.1",
+    "sequelize": "^5.8.6"
+  }
+}
